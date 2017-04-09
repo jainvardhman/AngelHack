@@ -1,2 +1,2 @@
 # AngelHack
-ncc
+nc
